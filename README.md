@@ -1,8 +1,10 @@
 # NASA Star Classification
 
 ### About the Data
-**Source:** Kaggle
-**Features:**
+#### Source:
+Kaggle
+
+#### Features:
 - Temperature (K)
 - Luminosity (L)
 - Radius (R)
@@ -13,3 +15,4 @@
 
 ### Problem Statement
 To predict the Star Type
+
